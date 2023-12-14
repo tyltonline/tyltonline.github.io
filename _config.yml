@@ -21,7 +21,7 @@
 title: Transform Your Life Today
 email: bodhitara21@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-Take the first step towards a happier and healthier life. Book your first coaching session today.
+    Take the first step towards a happier and healthier life. Book your first coaching session today.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "tyltonline.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ManjushaCoonjan
