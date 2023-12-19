@@ -1,10 +1,12 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Team
+permalink: /team/
 ---
-My favorite bird is [Duck Duck Go](https://duckduckgo.com).
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+| Syntax      | Description | Rates |
+| ----------- | ----------- | ----- |
+| Header      | Title       | 100   |
+| Paragraph   | Text        | 300   |
 
 You can find the source code for Minima at GitHub:
 [jekyll][jekyll-organization] /
