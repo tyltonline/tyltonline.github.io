@@ -28,7 +28,8 @@ twitter_username: ManjushaCoonjan
 github_username:  tyltonline
 
 # Build settings
-theme: minima
+#theme: minima
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 
