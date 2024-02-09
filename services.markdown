@@ -23,3 +23,5 @@ You can find the source code for Jekyll at GitHub:
 
 [jekyll-organization]: https://github.com/jekyll
 ![The San Juan Mountains are beautiful!](/assets/images/san-juan-mountains.avif "San Juan Mountains")
+
+![Flower of life](assets/images/flower-life-colorful-illustration-white-background-34947889.webp)
