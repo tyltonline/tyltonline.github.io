@@ -16,11 +16,12 @@ permalink: /services/
  Now is the time... let's start the journey to peace and happiness! Book a session here
 
 ## Yoga therapy sessions
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+ Measured Yoga Therapy is the development of objective measurement techniques to
+identify health deficiencies and validate effectiveness of non-invasive lifestyle practices
+based on philosophy and principles of yoga and traditional medicine methods (principally
+Chinese and Ayurvedic medicine systems).
 
-![A counselling session](assets/images/counseling2.jpg "A counselling session"(https://www.youtube.com/watch?v=O-ji9gRpC1A&t=7s.jpg)(https://www.youtube.com/watch?v=O-ji9gRpC1A&t=7s) 
-
-![YTM fr](assets/images/YTM fr.png "YTM fr")(https://www.youtube.com/watch?v=O-ji9gRpC1A&t=7s)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RxHLv1_90fM?si=1sythm-UN-GjNtHE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/O-ji9gRpC1A?si=MBzyRzFfF8LyY0aZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
