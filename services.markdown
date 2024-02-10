@@ -22,7 +22,7 @@ You can find the source code for Jekyll at GitHub:
 
 
 [jekyll-organization]: https://github.com/jekyll
-![The San Juan Mountains are beautiful!](/assets/images/san-juan-mountains.avif "San Juan Mountains")
+![A counselling session](/assets/images/counselingpic1.jpg "A counselling session")
 
 ![Flower of life](/assets/images/flower-life-colorful-illustration-white-background-1.png "Flower of life")
 
