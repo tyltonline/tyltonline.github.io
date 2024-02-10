@@ -3,7 +3,7 @@ layout: page
 title: Services
 permalink: /services/
 ---
-FREE
+FREE SERVICES
 Monthly online chanting sessions.
 [Register here](https://forms.gle/pJyoW73HaE4CTX3x5)
 
