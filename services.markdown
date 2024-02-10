@@ -18,7 +18,7 @@ permalink: /services/
 ## Yoga therapy sessions
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
 
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=O-ji9gRpC1A&t=7s) 
+[![IMAGE ALT TEXT HERE](https://www.youtube.com/watch?v=O-ji9gRpC1A&t=7s.jpg)](https://www.youtube.com/watch?v=O-ji9gRpC1A&t=7s) 
 
 ![YTM fr](assets/images/YTM fr.png "YTM fr")(https://www.youtube.com/watch?v=O-ji9gRpC1A&t=7s)
 
@@ -44,7 +44,7 @@ You can find the source code for Jekyll at GitHub:
 
 
 [jekyll-organization]: https://github.com/jekyll
-![A counselling session](/assets/images/counselingpic1.jpg "A counselling session")
+![A counselling session](assets/images/counseling2.jpg "A counselling session")
 
 ![Flower of life](/assets/images/flower-life-colorful-illustration-white-background-1.png "Flower of life")
 
