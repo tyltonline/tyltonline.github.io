@@ -18,9 +18,12 @@ permalink: /services/
 ## Yoga therapy sessions
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
 
-[![IMAGE ALT TEXT HERE](https://www.youtube.com/watch?v=O-ji9gRpC1A&t=7s.jpg)](https://www.youtube.com/watch?v=O-ji9gRpC1A&t=7s) 
+![A counselling session](assets/images/counseling2.jpg "A counselling session"(https://www.youtube.com/watch?v=O-ji9gRpC1A&t=7s.jpg)(https://www.youtube.com/watch?v=O-ji9gRpC1A&t=7s) 
 
 ![YTM fr](assets/images/YTM fr.png "YTM fr")(https://www.youtube.com/watch?v=O-ji9gRpC1A&t=7s)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O-ji9gRpC1A?si=MBzyRzFfF8LyY0aZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 
 ## Workshops
 
