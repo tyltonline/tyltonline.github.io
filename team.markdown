@@ -15,4 +15,4 @@ You can find the source code for Jekyll at GitHub:
 ![The Heart is the door](/assets/images/Chanting-1.png "The Heart is the door")
 
 [jekyll-organization]: https://github.com/jekyll
-![The San Juan Mountains are beautiful!](/assets/images/san-juan-mountains.avif "San Juan Mountains")
+![Danitza](/assets/images/D1.jpg "Danitza")
