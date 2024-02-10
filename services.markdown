@@ -3,11 +3,33 @@ layout: page
 title: Services
 permalink: /services/
 ---
-## FREE SERVICES
+## Free 
+ Let's generate peace and compassion for ourselves and all sentient beings!
  Monthly online chanting sessions.
 [Register here](https://forms.gle/pJyoW73HaE4CTX3x5)
 
 
+## Counseling 
+ Our wellness coaches will guide you through your current needs. Acting as an initiator to your journey towards self-discovery, each team member will endeavour to show you how to go about unraveling your own labyrinth. You will learn how to analyse yourself so that you will understand how to satisfy your needs and how to avoid getting into a state which will require external help. You can become your own best friend, coach, adviser so as to support yourself optimally.
+  + Online
+  + Face to face at Bras Panon, Ile de la Réunion
+ Now is the time... let's start the journey to peace and happiness! Book a session here
+
+## Yoga therapy sessions
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=O-ji9gRpC1A&t=7s) 
+
+![YTM fr](assets/images/YTM fr.png "YTM fr")(https://www.youtube.com/watch?v=O-ji9gRpC1A&t=7s)
+
+## Workshops
+
+## Retreats
+
+## Yoga classes
+
+
+assets\images\YTM fr.png
 
 My favorite bird is [Duck Duck Go].
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
