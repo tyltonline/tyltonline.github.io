@@ -19,6 +19,7 @@ Suscitons la paix et la compassion pour nous-mêmes et pour tous les êtres sens
 <button style="backgound-color:green">Register here</button>
 </a>
 
+
 ## Counseling 
  Nos coachs en bien-être vous guideront à travers vos besoins actuels. Agissant comme un initiateur de votre voyage vers la découverte de soi, chaque membre de l’équipe s’efforcera de vous montrer comment procéder pour démêler votre propre labyrinthe. Vous apprendrez à vous analyser afin de comprendre comment satisfaire vos besoins et comment éviter d’entrer dans un état qui nécessitera une aide extérieure. Vous pouvez devenir votre propre meilleur ami, coach, conseiller afin de vous soutenir de manière optimale.
   + En ligne
@@ -34,11 +35,14 @@ Suscitons la paix et la compassion pour nous-mêmes et pour tous les êtres sens
 
 ![A counselling session](/assets/images/counseling2.jpg "A counselling session")
 
+
 ## Séance de yoga therapie mesurée 
 
  La yogathérapie mesurée est le développement de techniques de mesure objectives pour identifier les carences dans les bio-méridiens et valider l’efficacité des pratiques de style de vie, basées sur la philosophie et les principes du yoga et des méthodes de médecine traditionnelle (principalement des systèmes de médecine chinoise et ayurvédique).
 
+
  <iframe width="560" height="315" src="https://www.youtube.com/embed/O-ji9gRpC1A?si=MBzyRzFfF8LyY0aZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 
  Measured Yoga Therapy is the development of objective measurement techniques to
 identify health deficiencies and validate effectiveness of lifestyle practices
@@ -47,13 +51,12 @@ Chinese and Ayurvedic medicine systems).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RxHLv1_90fM?si=1sythm-UN-GjNtHE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O-ji9gRpC1A?si=MBzyRzFfF8LyY0aZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 
 ## Ateliers
 Plus d’information à venir en temps et lieu
 
 More information to come in due course
+
 
 ## Retraites
 Plus d’information à venir en temps et lieu
