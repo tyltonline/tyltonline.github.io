@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Courses
-permalink: /courses/
+title: Cours
+permalink: /cours/
 ---
 Initiation à la pratique de Tara
 

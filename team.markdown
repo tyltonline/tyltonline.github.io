@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Team
-permalink: /team/
+title: Equipe
+permalink: /Equipe/
 ---
 
 Danitza, a personal development coach, is passionate about personal development and marvels at the  fact that the brain and mind are such powerful tools that they can help transform your life.
