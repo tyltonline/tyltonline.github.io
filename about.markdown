@@ -3,11 +3,23 @@ layout: page
 title: About
 permalink: /about/
 ---
+Cherchez-vous le bonheur, une libération tant attendue de tout ce qui crée de la tension dans votre vie, une occasion de vous libérer et de voler dans la paix, le silence, la joie, la félicité? 
+
+Voulez-vous respirer librement, bien dormir, vous sentir bien dans votre corps, votre mental et votre esprit?
+
+Aimeriez-vous une méthode alternative pour complémenter votre traitement actuel afin de garder vos problèmes de santé sous contrôle?
+[Register here](https://forms.gle/pJyoW73HaE4CTX3x5)
+
+
 Are you looking for happiness, a long-awaited release from all that creates tension in your life, an opportunity to set yourself free and fly into peace, silence, joy, bliss?  
-Do you want to vent all that has been pent up within and breathe freely? Create a space where you can sort out what is happening in your life…to bring order to chaos, and keep it free of mental clutter? To be able to take things easy yet be creative and even more productive.
-Does it feel like life is incomplete and something needs to be lived to make it complete?  Do you want to find for that thing which is missing in your life for it to be fulfilled, to be contented…simply happy not only during vacation but in the daily hustle and bustle? 
-Are you simply looking for a non-judgmental listening ear in a trusting and comfortable environment?
-Our wellness coaches will guide you through your current needs. Acting as an initiator to your journey towards self-discovery, each team memeber will show you how to go about unraveling your own labyrinth. You will learn how to analyse yourself so that you will understand how to satisfy your needs and how to avoid getting into a state which will require external help. You can become your own best friend, coach, adviser so as to support yourself optimally. 
+<button>[Register here](https://forms.gle/pJyoW73HaE4CTX3x5)<button>
+
+Do you want to breathe freely, sleep well, feel good in your body, mind and spirit?
+<button>[Register here](https://forms.gle/pJyoW73HaE4CTX3x5)<button>
+
+Would you like an alternative method complementing your current treatment to help keep your health issues controlled?
+<button>[Register here](https://forms.gle/pJyoW73HaE4CTX3x5)<button>
+
 
 
 

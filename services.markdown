@@ -6,6 +6,7 @@ permalink: /services/
 ## Free 
  Let's generate peace and compassion for ourselves and all sentient beings!
  Monthly online chanting sessions.
+
 <a href="https://forms.gle/pJyoW73HaE4CTX3x5">
 <button style="backgound-color:green">Register here</button>
 </a>
