@@ -3,6 +3,9 @@ layout: page
 title: Accueil
 permalink: /accueil/
 ---
+![Sunflowers](/assets/images/sunflower.png "Sunflowers")
+
+
 Cherchez-vous le bonheur, une libération tant attendue de tout ce qui crée de la tension dans votre vie, une occasion de vous libérer et de voler dans la paix, le silence, la joie, la félicité?
 [Counseling]() 
 
