@@ -6,8 +6,10 @@ permalink: /services/
 ## Free 
  Let's generate peace and compassion for ourselves and all sentient beings!
  Monthly online chanting sessions.
-<button>[Register here](https://forms.gle/pJyoW73HaE4CTX3x5)<button>
 
+<a href="https://forms.gle/pJyoW73HaE4CTX3x5">
+<button style="font-size:25px; background-colour:green">[Register here]</button>
+</a>
 
 ## Counseling 
  Our wellness coaches will guide you through your current needs. Acting as an initiator to your journey towards self-discovery, each team member will endeavour to show you how to go about unravelling your own labyrinth. You will learn how to analyse yourself so that you will understand how to satisfy your needs and how to avoid getting into a state which will require external help. You can become your own best friend, coach, adviser so as to support yourself optimally.
