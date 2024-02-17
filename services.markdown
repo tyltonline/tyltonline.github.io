@@ -8,7 +8,7 @@ permalink: /services/
  Monthly online chanting sessions.
 
 <a href="https://forms.gle/pJyoW73HaE4CTX3x5">
-<button style="font-size:25px; background-colour:green">[Register here]</button>
+<button>Register here</button>
 </a>
 
 ## Counseling 
