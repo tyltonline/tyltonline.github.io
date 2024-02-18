@@ -75,9 +75,10 @@ More information to come in due course
 | ----------- | ----------- | ----- |
 | Cours de yoga traditionnel| 1 heure sur tapis | 15€ par séeance   |
 |                           |                   |   50€ par mois    |
-| Yoga sur chaise           | effectué en douceur,|         00   |
-|                 | adapté pour les sujets  |      0   |
-|                 | âgés et en convalescence |      00   |
+| Yoga sur chaise           | effectué en douceur, adapté pour les sujets âgés et en convalescence | 15€ par séeance   |
+|                           |                   |   50€ par mois   |
+|Yoga sensible aux traumatismes   | pour le stress post-traumatique | 300   |
+| Paragraph   | Text        | 300   |
 | Paragraph   | Text        | 300   |
 | Paragraph   | Text        | 300   |
 
