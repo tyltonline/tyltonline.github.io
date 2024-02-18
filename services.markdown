@@ -52,12 +52,6 @@ Chinese and Ayurvedic medicine systems).
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RxHLv1_90fM?si=1sythm-UN-GjNtHE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
-## Ateliers
-Plus d’information à venir en temps et lieu
-
-More information to come in due course
-
-
 ## Retraites
 Plus d’information à venir en temps et lieu
 
@@ -66,14 +60,26 @@ More information to come in due course
 
 ## Cours de formation
 
-###Yoga en individuel et en group
+### Yoga en individuel et en groupe
+| Cours       | Description |Côut           |
+|             |             | Séance | Mois |
+| ----------- | ----------- | ------------- |
+| Yoga traditionnel     | & heure sur tapis       | 15   | 40 |
+| Paragraph   | Text        | 300   |
+    
+    Cours de yoga traditionnel - sur tapis
+    Yoga sur chaise - effectué en douceur, adapté pour les sujets âgés et en convalescence
+    Yoga sensible aux traumatismes - pour le stress post-traumatique
 
-###Initiation à la pratique de Tara
 
-###Activation des champs de protection de Tara
-Mars 2 & 3 de 10h à 12h en ligne
+### Purification des chakras et karma
 
-###Groupe d'étude sur le féminisme et la spiritualité
+### Initiation à la pratique de Tara
+
+### Activation des champs de protection de Tara
+Mars 2 & 3 2024 de 10h à 12h en ligne
+
+### Groupe d'étude sur le féminisme et la spiritualité
 
 
 
