@@ -74,7 +74,11 @@ More information to come in due course
 | Syntax      | Description | Rates |
 | ----------- | ----------- | ----- |
 | Cours de yoga traditionnel| 1 heure sur tapis | 15€ par séeance   |
-|                           |                   | 3050€ par mois    |
+|                           |                   |   50€ par mois    |
+| Yoga sur chaise           | effectué en douceur,|         00   |
+|                 | adapté pour les sujets  |      0   |
+|                 | âgés et en convalescence |      00   |
+| Paragraph   | Text        | 300   |
 | Paragraph   | Text        | 300   |
 
 
