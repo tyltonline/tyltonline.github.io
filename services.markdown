@@ -70,11 +70,14 @@ More information to come in due course
     Cours de yoga traditionnel - sur tapis
     Yoga sur chaise - effectué en douceur, adapté pour les sujets âgés et en convalescence
     Yoga sensible aux traumatismes - pour le stress post-traumatique
-    
+
 | Syntax      | Description | Rates |
 | ----------- | ----------- | ----- |
-| Header      | Title       | 100   |
+| Cours de yoga traditionnel| 1 heure sur tapis | 15€ par séeance   |
+|                           |                   | 3050€ par mois    |
 | Paragraph   | Text        | 300   |
+
+
 
 ### Purification des chakras et karma
 
