@@ -42,7 +42,7 @@ Do you want to learn, understand and practice spirituality in a safe space?
 
 
 [jekyll-organization]: https://github.com/jekyll
-![Beautiful lotuses on lake!](/assets/images/Lotuses2.jpg "Beautiful lotuses on lake")
+![Beautiful lotuses on lake!](/assets/images/Lotuses1.png "Beautiful lotuses on lake")
 
 
 
