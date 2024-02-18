@@ -20,7 +20,7 @@ Suscitons la paix et la compassion pour nous-mêmes et pour tous les êtres sens
 </a>
 
 
-## Counseling 
+## Life Coaching / Coach de vie  
  Nos coachs en bien-être vous guideront à travers vos besoins actuels. Agissant comme un initiateur de votre voyage vers la découverte de soi, chaque membre de l’équipe s’efforcera de vous montrer comment procéder pour démêler votre propre labyrinthe. Vous apprendrez à vous analyser afin de comprendre comment satisfaire vos besoins et comment éviter d’entrer dans un état qui nécessitera une aide extérieure. Vous pouvez devenir votre propre meilleur ami, coach, conseiller afin de vous soutenir de manière optimale.
   + En ligne
   + Face à face à Bras Panon, Ile de la Réunion
@@ -61,11 +61,11 @@ More information to come in due course
 ## Cours de formation
 
 ### Yoga en individuel et en groupe
-| Cours       | Description |Côut           |
-|             |             | Séance | Mois |
-| ----------- | ----------- | ------------- |
-| Yoga traditionnel     | & heure sur tapis       | 15   | 40 |
-| Paragraph   | Text        | 300   |
+| Cours                 | Description         |      Côut     |
+|                       |                     | Séance | Mois |
+| --------------------- | ------------------- | ------------- |
+| Yoga traditionnel     | 1 heure sur tapis   |  15€   | 50€  |
+| Paragraph             | Text                | 300    |      |
     
     Cours de yoga traditionnel - sur tapis
     Yoga sur chaise - effectué en douceur, adapté pour les sujets âgés et en convalescence
