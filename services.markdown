@@ -12,7 +12,7 @@ Suscitons la paix et la compassion pour nous-mêmes et pour tous les êtres sens
 </a>
  
 
- Let's generate peace and compassion for ourselves and all sentient beings!
+Let's generate peace and compassion for ourselves and all sentient beings!
  Monthly online chanting sessions.
 
 <a href="https://forms.gle/pJyoW73HaE4CTX3x5">
@@ -23,14 +23,14 @@ Suscitons la paix et la compassion pour nous-mêmes et pour tous les êtres sens
 ## Life Coaching / Coach de vie  
  Nos coachs en bien-être vous guideront à travers vos besoins actuels. Agissant comme un initiateur de votre voyage vers la découverte de soi, chaque membre de l’équipe s’efforcera de vous montrer comment procéder pour démêler votre propre labyrinthe. Vous apprendrez à vous analyser afin de comprendre comment satisfaire vos besoins et comment éviter d’entrer dans un état qui nécessitera une aide extérieure. Vous pouvez devenir votre propre meilleur ami, coach, conseiller afin de vous soutenir de manière optimale.
   + En ligne
-  + Face à face à Bras Panon, Ile de la Réunion
- C’est le moment... commençons le voyage vers la paix et le bonheur! 
-[Réservez une séance ici]()
+  + En présentiel à Bras Panon, Ile de la Réunion
+  C’est le moment... commençons le voyage vers la paix et le bonheur! 
+ [Réservez une séance ici]()
 
  Our wellness coaches will guide you through your current needs. Acting as an initiator to your journey towards self-discovery, each team member will endeavour to show you how to go about unravelling your own labyrinth. You will learn how to analyse yourself so that you will understand how to satisfy your needs and how to avoid getting into a state which will require external help. You can become your own best friend, coach, adviser so as to support yourself optimally.
   + Online
   + Face to face at Bras Panon, Ile de la Réunion
- Now is the time... let's start the journey to peace and happiness! 
+  Now is the time... let's start the journey to peace and happiness! 
  [Book a session here]()
 
 ![A counselling session](/assets/images/counseling2.jpg "A counselling session")
@@ -58,13 +58,13 @@ Plus d’information à venir en temps et lieu
 More information to come in due course
 
 
-## Cours de formation
+## Cours 
 
 ### Yoga en individuel et en groupe
 
 Séance de yoga individuel 50€ - 1,5 heures*
 
-| Cours en groupe | Description | Côuts* |
+| Cours en groupe | Description | Côut* |
 | ----------- | ----------- | ----- |
 | Yoga traditionnel | 1 heure sur tapis | 15€ séance   |
 |                           |                   |   50€ mois    |
@@ -73,7 +73,7 @@ Séance de yoga individuel 50€ - 1,5 heures*
 |Yoga sensible aux traumatismes | pour le stress post-traumatique |15€ séance   |
 |                           |                   |   50€ mois    |
 
-*frais additionel pour les cours à domiciles
+*frais additionel pour les cours à domicile
 
 ### Purification des chakras et karma
 
