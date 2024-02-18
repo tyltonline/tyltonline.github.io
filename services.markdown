@@ -62,17 +62,18 @@ More information to come in due course
 
 ### Yoga en individuel et en groupe
 
-| Cours      | Description | Rates |
+Séance de yoga individuel 50€ - 1,5 heures*
+
+| Cours en groupe | Description | Côuts* |
 | ----------- | ----------- | ----- |
-| Yoga traditionnel | 1 heure sur tapis | 15€ - séance   |
-|                           |                   |   50€ - mois    |
-| Yoga sur chaise | effectué en douceur, adapté pour les sujets âgés et en convalescence |15€ - séance   |
-|                           |                   |   50€ - mois    |
-|Yoga sensible aux traumatismes | pour le stress post-traumatique |15€ - séance   |
-|                           |                   |   50€ - mois    |
+| Yoga traditionnel | 1 heure sur tapis | 15€ séance   |
+|                           |                   |   50€ mois    |
+| Yoga sur chaise | effectué en douceur, adapté pour les sujets âgés et en convalescence |15€ séance   |
+|                           |                   |   50€ mois    |
+|Yoga sensible aux traumatismes | pour le stress post-traumatique |15€ séance   |
+|                           |                   |   50€ mois    |
 
-
-
+*frais additionel pour les cours à domiciles
 
 ### Purification des chakras et karma
 
