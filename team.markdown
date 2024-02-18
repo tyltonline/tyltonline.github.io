@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Qui sommes-nous
-permalink: /Qui sommes-nous/
+title: Qui sommes-nous?
+permalink: /Qui sommes-nous?/
 ---
 BESOINS
 NARRATIF
