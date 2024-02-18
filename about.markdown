@@ -8,7 +8,7 @@ permalink: /accueil/
 | ![Sunflowers](/assets/images/Life coach2.png "Sunflowers") |![Sunflowers](/assets/images/YTM2.png "Sunflowers")  |![Sunflowers](/assets/images/cours3.png "Sunflowers")|
 
 
-| Cherchez-vous le bonheur, une libération tant attendue de tout ce qui crée de la tension dans votre vie, une occasion de vous libérer et de voler dans la paix, le silence, la joie, la félicité? | Aimeriez-vous une méthode alternative pour complémenter votre traitement actuel afin d'aider à mieux contrôler vos problèmes de santé ? Les troubles soignés à un stade précoce avec la yoga thérapie mesurée ont plus de chance d’un résultat positif et durable.| Voulez-vous apprendre, comprendre et pratiquer la spiritualité dans un espace sûr? |
+| Cherchez-vous le bonheur, une libération tant attendue de tout ce qui crée de la tension dans votre vie, une occasion de vous libérer et de voler dans la paix, le silence, la joie, la félicité? | Aimeriez-vous une méthode alternative pour complémenter votre traitement actuel ? Les troubles soignés à un stade précoce avec la yoga thérapie mesurée ont plus de chance d’un résultat positif et durable.| Voulez-vous apprendre, comprendre et pratiquer la spiritualité dans un espace sûr? |
 
 
 ![Beautiful lotuses on lake!](/assets/images/Lotuses1.png "Beautiful lotuses on lake")
