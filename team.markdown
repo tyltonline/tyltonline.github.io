@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Equipe
-permalink: /Equipe/
+title: Qui sommes-nous
+permalink: /Qui sommes-nous/
 ---
 BESOINS
 NARRATIF
