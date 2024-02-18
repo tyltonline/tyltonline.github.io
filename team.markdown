@@ -3,6 +3,9 @@ layout: page
 title: Equipe
 permalink: /Equipe/
 ---
+BESOINS
+NARRATIF
+VALEURS
 
 Danitza, a personal development coach, is passionate about personal development and marvels at the  fact that the brain and mind are such powerful tools that they can help transform your life.
 
