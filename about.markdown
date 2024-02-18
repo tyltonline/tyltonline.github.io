@@ -3,6 +3,11 @@ layout: page
 title: Accueil
 permalink: /accueil/
 ---
+
+
+| ![Sunflowers](/assets/images/Coaching icon.jpg "Sunflowers") |![Sunflowers](/assets/images/YTM icon.jpg "Sunflowers")  |![Sunflowers](/assets/images/Cours icon.jpg "Sunflowers")|
+
+
 ![Sunflowers](/assets/images/sunflower.png "Sunflowers")
 
 
