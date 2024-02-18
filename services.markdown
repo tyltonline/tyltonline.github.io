@@ -61,26 +61,16 @@ More information to come in due course
 ## Cours de formation
 
 ### Yoga en individuel et en groupe
-| Cours                 | Description         |      Côut     |
-|                       |                     | Séance | Mois |
-| --------------------- | ------------------- | ------------- |
-| Yoga traditionnel     | 1 heure sur tapis   |  15€   | 50€  |
-| Paragraph             | Text                | 300    |      |
-    
-    Cours de yoga traditionnel - sur tapis
-    Yoga sur chaise - effectué en douceur, adapté pour les sujets âgés et en convalescence
-    Yoga sensible aux traumatismes - pour le stress post-traumatique
 
-| Syntax      | Description | Rates |
+| Cours      | Description | Rates |
 | ----------- | ----------- | ----- |
-| Cours de yoga traditionnel| 1 heure sur tapis | 15€ par séeance   |
-|                           |                   |   50€ par mois    |
-| Yoga sur chaise           | effectué en douceur, adapté pour les sujets âgés et en convalescence | 15€ par séeance   |
-|                           |                   |   50€ par mois   |
-|Yoga sensible aux traumatismes   | pour le stress post-traumatique | 300   |
-| Paragraph   | Text        | 300   |
-| Paragraph   | Text        | 300   |
-| Paragraph   | Text        | 300   |
+| Yoga traditionnel | 1 heure sur tapis | 15€ - séance   |
+|                           |                   |   50€ - mois    |
+| Yoga sur chaise | effectué en douceur, adapté pour les sujets âgés et en convalescence |15€ - séance   |
+|                           |                   |   50€ - mois    |
+|Yoga sensible aux traumatismes | pour le stress post-traumatique |15€ - séance   |
+|                           |                   |   50€ - mois    |
+
 
 
 
