@@ -11,8 +11,7 @@ permalink: /accueil/
 | Cherchez-vous le bonheur, une libération tant attendue de tout ce qui crée de la tension dans votre vie, une occasion de vous libérer et de voler dans la paix, le silence, la joie, la félicité? | Aimeriez-vous une méthode alternative pour complémenter votre traitement actuel afin d'aider à garder vos problèmes de santé sous contrôle? Les troubles soignés à un stade précoce avec la yoga thérapie mesurée ont plus de chance d’un résultat positif.| Voulez-vous apprendre, comprendre et pratiquer la spiritualité dans un espace sûr? |
 
 
-![Sunflowers](/assets/images/sunflower.png "Sunflowers")
-
+![Beautiful lotuses on lake!](/assets/images/Lotuses1.png "Beautiful lotuses on lake")
 
 
 Are you looking for happiness, a long-awaited release from all that creates tension in your life, an opportunity to set yourself free and fly into peace, silence, joy, bliss?  
@@ -28,8 +27,5 @@ Do you want to learn, understand and practice spirituality in a safe space?
 [Courses]()
 
 
-[jekyll-organization]: https://github.com/jekyll
-![Beautiful lotuses on lake!](/assets/images/Lotuses1.png "Beautiful lotuses on lake")
-
-
+![Sunflowers](/assets/images/sunflower.png "Sunflowers")
 
