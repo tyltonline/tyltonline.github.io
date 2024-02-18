@@ -24,12 +24,13 @@ Let's generate peace and compassion for ourselves and all sentient beings!
  Nos coachs en bien-être vous guideront à travers vos besoins actuels. Agissant comme un initiateur de votre voyage vers la découverte de soi, chaque membre de l’équipe s’efforcera de vous montrer comment procéder pour démêler votre propre labyrinthe. Vous apprendrez à vous analyser afin de comprendre comment satisfaire vos besoins et comment éviter d’entrer dans un état qui nécessitera une aide extérieure. Vous pouvez devenir votre propre meilleur ami, coach, conseiller afin de vous soutenir de manière optimale.
   + En ligne
   + En présentiel à Bras Panon, Ile de la Réunion
-  C’est le moment... commençons le voyage vers la paix et le bonheur! 
+    C’est le moment... commençons le voyage vers la paix et le bonheur! 
  [Réservez une séance ici]()
 
  Our wellness coaches will guide you through your current needs. Acting as an initiator to your journey towards self-discovery, each team member will endeavour to show you how to go about unravelling your own labyrinth. You will learn how to analyse yourself so that you will understand how to satisfy your needs and how to avoid getting into a state which will require external help. You can become your own best friend, coach, adviser so as to support yourself optimally.
   + Online
   + Face to face at Bras Panon, Ile de la Réunion
+  
   Now is the time... let's start the journey to peace and happiness! 
  [Book a session here]()
 
