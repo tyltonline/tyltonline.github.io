@@ -1,19 +1,31 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Accueil
+permalink: /accueil/
 ---
-My favorite bird is [Duck Duck Go](https://duckduckgo.com).
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
 
 
-[jekyll-organization]: https://github.com/jekyll
-![The San Juan Mountains are beautiful!](/assets/images/san-juan-mountains.avif "San Juan Mountains")
+| ![Sunflowers](/assets/images/Life coach2.png "Sunflowers") |![Sunflowers](/assets/images/YTM2.png "Sunflowers")  |![Sunflowers](/assets/images/cours3.png "Sunflowers")|
+
+
+| Cherchez-vous le bonheur, une libération tant attendue de tout ce qui crée de la tension dans votre vie, une occasion de vous libérer et de voler dans la paix, le silence, la joie, la félicité? Cliquez ici | Aimeriez-vous une méthode alternative pour complémenter votre traitement actuel ? Les troubles soignés à un stade précoce avec la yoga thérapie mesurée ont plus de chance d’un résultat positif et durable. Cliquez ici| Voulez-vous apprendre, comprendre et pratiquer la spiritualité dans un espace sûr? Cliquez ici |
+
+
+![Beautiful lotuses on lake!](/assets/images/Lotuses1.png "Beautiful lotuses on lake")
+
+
+Are you looking for happiness, a long-awaited release from all that creates tension in your life, an opportunity to set yourself free and fly into peace, silence, joy, bliss?  
+<button>[Register here](https://forms.gle/pJyoW73HaE4CTX3x5)</button>
+
+Do you want to breathe freely, sleep well, feel good in your body, mind and spirit?
+<button>[Register here](https://forms.gle/pJyoW73HaE4CTX3x5)</button>
+
+Would you like an alternative method complementing your current treatment to help keep your health issues controlled?
+<button>[Register here](https://forms.gle/pJyoW73HaE4CTX3x5)</button>
+
+Do you want to learn, understand and practice spirituality in a safe space? 
+[Courses]()
+
+
+![Sunflowers](/assets/images/sunflower.png "Sunflowers")
+
