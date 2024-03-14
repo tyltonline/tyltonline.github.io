@@ -7,14 +7,12 @@ BESOINS
 NARRATIF
 VALEURS
 
-Danitza, a personal development coach, is passionate about personal development and marvels at the  fact that the brain and mind are such powerful tools that they can help transform your life.
+![Danitza Tuyau](/assets/images/Danitza.png "Danitza Tuyau")
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+![Dr Manjusha Coonjan](/assets/images/Manjusha.png "Dr Manjusha Coonjan")
 
-[jekyll-organization]: https://github.com/jekyll
-![Danitza](/assets/images/D1.jpg "Danitza")
+![Laetita Brahmani](/assets/images/Laetitia.png "Laetita Brahmani")
+
 
 
 
