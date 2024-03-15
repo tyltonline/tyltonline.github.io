@@ -1,12 +1,9 @@
 ---
 layout: page
-title: Avis
-permalink: /avis/
+title: Témoignages
+permalink: /témoignages/
 ---
-| Syntax      | Description | Rates |
-| ----------- | ----------- | ----- |
-| Header      | Title       | 100   |
-| Paragraph   | Text        | 300   |
+
 
 You can find the source code for Minima at GitHub:
 [jekyll][jekyll-organization] /
