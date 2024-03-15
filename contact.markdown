@@ -3,10 +3,10 @@ layout: page
 title: Contact
 permalink: /contact/
 ---
-| Syntax      | Description | Rates |
-| ----------- | ----------- | ----- |
-| Header      | Title       | 100   |
-| Paragraph   | Text        | 300   |
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSccfTQDszKqBlyytArpcvOY32NywZY8rRkNvjiObhijEozDjw/viewform?embedded=true" width="640" height="1100" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+
+
+
 
 You can find the source code for Minima at GitHub:
 [jekyll][jekyll-organization] /
