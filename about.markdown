@@ -5,7 +5,7 @@ permalink: /accueil/
 ---
 
 
-|![Life coach icone](assets\images\Lifecoach2.png "Life coach icone") | Cherchez-vous le bonheur, une libération tant attendue de tout ce qui crée de la tension dans votre vie, une occasion de vous libérer et de voler dans la paix, le silence, la joie, la félicité? Cliquez ici |
+|![Life coach icone](/assets/images/Lifecoach2.png "Life coach icone") | Cherchez-vous le bonheur, une libération tant attendue de tout ce qui crée de la tension dans votre vie, une occasion de vous libérer et de voler dans la paix, le silence, la joie, la félicité? Cliquez ici |
   
 
 |![Yogathérapie icone](/assets/images/YTM2.png "Yogathérapie icone") | Aimeriez-vous une méthode alternative pour complémenter votre traitement actuel ? Les troubles soignés à un stade précoce avec la yoga thérapie mesurée ont plus de chance d’un résultat positif et durable. Cliquez ici |
