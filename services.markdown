@@ -3,7 +3,7 @@ layout: page
 title: Services
 permalink: /services/
 ---
-## Gratuit
+![Gratuit](/assets/images/Gratuit.png "Gratuit")
 Suscitons la paix et la compassion pour nous-mêmes et pour tous les êtres sensibles !
 
 Sessions mensuelles de chant en ligne.
@@ -22,7 +22,7 @@ Monthly online chanting sessions.
 </a>
 
 
-## Life Coaching / Coach de vie  
+![Coaching de vie et thérapie](/assets/images/Gratuit.png "Coaching de vie et thérapie") 
  Nos coachs en bien-être vous guideront à travers vos besoins actuels. Agissant comme un initiateur de votre voyage vers la découverte de soi, chaque membre de l’équipe s’efforcera de vous montrer comment procéder pour démêler votre propre labyrinthe. Vous apprendrez à vous analyser afin de comprendre comment satisfaire vos besoins et comment éviter d’entrer dans un état qui nécessitera une aide extérieure. Vous pouvez devenir votre propre meilleur ami, coach, conseiller afin de vous soutenir de manière optimale.
   + En ligne
   + En présentiel à Bras Panon, Ile de la Réunion
@@ -84,7 +84,6 @@ Séance de yoga individuel 50€ - 1,5 heures*
 ### Initiation à la pratique de Tara
 
 ### Activation des champs de protection de Tara
-Mars 2 & 3 2024 de 10h à 12h en ligne
 
 ### Groupe d'étude sur le féminisme et la spiritualité
 
