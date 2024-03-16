@@ -9,7 +9,7 @@ VALEURS
 
 ![Danitza Tuyau](/assets/images/Danitza.png "Danitza Tuyau")
 [Suivre Danitza sur Instagram](https://www.instagram.com/helpinghand_mu?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw%3D%3D)
-![Danitza Tuyau](/assets/images/DanitzaBanner.png "Danitza Tuyau")
+<a href="https://forms.gle/jHZAfHiSEbRJ5Wbz7"> <![Danitza Tuyau](/assets/images/DanitzaBanner.png "Danitza Tuyau")> </a>
 
 ![Dr Manjusha Coonjan](/assets/images/Manjusha.png "Dr Manjusha Coonjan")
 [Suivre Manjusha sur Facebook](https://www.facebook.com/profile.php?id=100033228883018)
