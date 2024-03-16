@@ -12,8 +12,9 @@ VALEURS
 ![Danitza Tuyau](/assets/images/DanitzaBanner.png "Danitza Tuyau")
 
 ![Dr Manjusha Coonjan](/assets/images/Manjusha.png "Dr Manjusha Coonjan")
-![Dr Manjusha Coonjan](/assets/images/ManjushaBanner.png "Dr Manjusha Coonjan")
 [Suivre Manjusha sur Facebook](https://www.facebook.com/profile.php?id=100033228883018)
+![Dr Manjusha Coonjan](/assets/images/ManjushaBanner.png "Dr Manjusha Coonjan")
+
 
 ![Laetita Brahmani](/assets/images/Laetitia.png "Laetita Brahmani")
 [Suivre Laetitia](https://zedisyonevaoseanindyin.wordpress.com/home)
