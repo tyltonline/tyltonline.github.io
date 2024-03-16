@@ -22,6 +22,9 @@ Sessions mensuelles de chant en ligne.
   C’est le moment... commençons le voyage vers la paix et le bonheur! 
  [Réservez une séance ici]()
 
+ 
+![A counselling session](/assets/images/counseling2.jpg "A counselling session")
+
 
 ## Séance de yoga therapie mesurée 
 
@@ -29,6 +32,8 @@ Sessions mensuelles de chant en ligne.
 
 
  <iframe width="560" height="315" src="https://www.youtube.com/embed/O-ji9gRpC1A?si=MBzyRzFfF8LyY0aZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
 
 
 ## Retraites
