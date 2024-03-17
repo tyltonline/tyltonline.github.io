@@ -12,7 +12,7 @@ Sessions mensuelles de chant en ligne.
 </a>
  
 ## II. Coaching de vie et thérapie
-    Nos psychopracticiennes et coachs en bien-être vous guideront à travers vos besoins actuels. Utilisant les méthodes de counselling, elles vont fournir une écoute sans jugement dans un environnement de confiance et confortable avec un fondement d'empathie où vous allez avancer à votre rythme. Selon vos besoins, elles peuvent aussi employer les modalités de coaching pour vous guider activement vers votre objectif. La thérapeute de votre choix travaillera avec vous pour démêler votre propre labyrinthe. 
+Nos psychopracticiennes et coachs en bien-être vous guideront à travers vos besoins actuels. Utilisant les méthodes de counselling, elles vont fournir une écoute sans jugement dans un environnement de confiance et confortable avec un fondement d'empathie où vous allez avancer à votre rythme. Selon vos besoins, elles peuvent aussi employer les modalités de coaching pour vous guider activement vers votre objectif. La thérapeute de votre choix travaillera avec vous pour démêler votre propre labyrinthe. 
 
   + En ligne
   + En présentiel à Bras Panon, Ile de la Réunion
