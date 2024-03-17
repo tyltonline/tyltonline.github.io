@@ -1,14 +1,14 @@
 ---
 layout: page
-title: Services
-permalink: /services/
+title: Offres
+permalink: /offres/
 ---
 ## I. Gratuit
-Suscitons la paix et la compassion pour nous-mêmes et pour tous les êtres sensibles !
+Apportons la paix et la compassion pour nous-mêmes et pour tous les êtres sensibles !
 
 Sessions mensuelles de chant en ligne.
 
-<a href="https://forms.gle/pJyoW73HaE4CTX3x5"> ![Inscrivez vous](/assets/images/inscrivezvous.png "Inscrivez vous")
+<a href="https://forms.gle/pJyoW73HaE4CTX3x5"> ![Inscrivez vous](/assets/images/inscrivezvousbout.png "Inscrivez vous")
 </a>
  
 ## II. Coaching de vie et thérapie
@@ -16,9 +16,12 @@ Sessions mensuelles de chant en ligne.
   + En ligne
   + En présentiel à Bras Panon, Ile de la Réunion
   
-  C’est le moment... commençons le voyage vers la paix et le bonheur! 
- [Réservez une séance ici]()
-
+  C’est le moment... commençons le voyage vers la paix et le bonheur!
+  
+  Réservez une séance de coaching en cliquant le bouton suivant.
+ 
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSccfTQDszKqBlyytArpcvOY32NywZY8rRkNvjiObhijEozDjw/viewform?usp=sf_link"> ![Coaching bouton](/assets/images/coachingbout.png "Coaching bouton")
+</a>
  
 ![A counselling session](/assets/images/counseling2.jpg "A counselling session")
 
@@ -31,9 +34,10 @@ Sessions mensuelles de chant en ligne.
  <iframe width="560" height="315" src="https://www.youtube.com/embed/O-ji9gRpC1A?si=MBzyRzFfF8LyY0aZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
+Réservez une séance de yogathérapie mesurée en cliquant le bouton suivant.
 
-
-
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSccfTQDszKqBlyytArpcvOY32NywZY8rRkNvjiObhijEozDjw/viewform?usp=sf_link"> ![Yogathérapie mesurée bouton](/assets/images/ytmbout.png "Yogathérapie mesurée bouton")
+</a>
 
 
 ## IV. Cours 
@@ -51,9 +55,14 @@ Séance de yoga individuel 50€ - 1,5 heures*
 |Yoga sensible aux traumatismes | pour le stress post-traumatique |15€ séance   |
 |                           |                   |   50€ mois    |
 
-*frais additionel pour les cours à domicile
+*frais additionel pour les cours à domicile.
 
-### b. Developement Personel et Spirituel
+Réservez une séance de yoga en cliquant le bouton suivant. 
+
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSccfTQDszKqBlyytArpcvOY32NywZY8rRkNvjiObhijEozDjw/viewform?usp=sf_link"> ![Yoga bouton](/assets/images/yogabout.png "Yoga bouton")
+</a>
+
+### b. Développement Personel et Spirituel
 #### 1. Purification des chakras et karma
 
 #### 2. Initiation à la pratique de Tara
@@ -62,6 +71,10 @@ Séance de yoga individuel 50€ - 1,5 heures*
 
 #### 4. Groupe d'étude sur le féminisme et la spiritualité
 
+Inscrivez vous dans un cours en cliquant le bouton suivant. 
+
+ <a href="https://docs.google.com/forms/d/e/1FAIpQLSccfTQDszKqBlyytArpcvOY32NywZY8rRkNvjiObhijEozDjw/viewform?usp=sf_link"> ![Cours bouton](/assets/images/coursbout.png "Cours bouton")
+</a>
 
 ## V. Retraites
 Plus d’information à venir en temps et lieu
