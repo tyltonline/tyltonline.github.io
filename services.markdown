@@ -16,7 +16,8 @@ Sessions mensuelles de chant en ligne.
   + En ligne
   + En présentiel à Bras Panon, Ile de la Réunion
   
-  C’est le moment... commençons le voyage vers la paix et le bonheur! Réservez une séance de coaching en cliquant ci-dessous
+  C’est le moment... commençons le voyage vers la paix et le bonheur!
+  Réservez une séance de coaching en cliquant ci-dessous
  
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSccfTQDszKqBlyytArpcvOY32NywZY8rRkNvjiObhijEozDjw/viewform?usp=sf_link"> ![Coaching bouton](/assets/images/coachingbout.png "Coaching bouton")
 </a>
@@ -53,10 +54,12 @@ Séance de yoga individuel 50€ - 1,5 heures*
 |Yoga sensible aux traumatismes | pour le stress post-traumatique |15€ séance   |
 |                           |                   |   50€ mois    |
 
-*frais additionel pour les cours à domicile
-Réservez une séance de yoga en cliquant ci-dessous
+*frais additionel pour les cours à domicile.
+ Réservez une séance de yoga en cliquant ci-dessous
+
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSccfTQDszKqBlyytArpcvOY32NywZY8rRkNvjiObhijEozDjw/viewform?usp=sf_link"> ![Yoga bouton](/assets/images/yogabout.png "Yoga bouton")
 </a>
+
 ### b. Développement Personel et Spirituel
 #### 1. Purification des chakras et karma
 
@@ -67,7 +70,8 @@ Réservez une séance de yoga en cliquant ci-dessous
 #### 4. Groupe d'étude sur le féminisme et la spiritualité
 
 Inscrivez vous dans un cours en cliquant ci-dessous
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSccfTQDszKqBlyytArpcvOY32NywZY8rRkNvjiObhijEozDjw/viewform?usp=sf_link"> ![Cours bouton](/assets/images/coursbout.png "Cours bouton")
+
+ <a href="https://docs.google.com/forms/d/e/1FAIpQLSccfTQDszKqBlyytArpcvOY32NywZY8rRkNvjiObhijEozDjw/viewform?usp=sf_link"> ![Cours bouton](/assets/images/coursbout.png "Cours bouton")
 </a>
 
 ## V. Retraites
