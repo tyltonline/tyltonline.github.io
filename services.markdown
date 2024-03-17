@@ -3,19 +3,16 @@ layout: page
 title: Services
 permalink: /services/
 ---
-![Gratuit](/assets/images/Gratuit.png "Gratuit")
+## I. Gratuit
 Suscitons la paix et la compassion pour nous-mêmes et pour tous les êtres sensibles !
 
 Sessions mensuelles de chant en ligne.
 
-<a href="https://forms.gle/pJyoW73HaE4CTX3x5">
-<button style="backgound-color:green">Inscrivez-vous ici</button>
+<a href="https://forms.gle/pJyoW73HaE4CTX3x5"> ![Inscrivez vous](/assets/images/inscrivezvous.png "Inscrivez vous")
 </a>
  
-
-
-![Coaching de vie et thérapie](/assets/images/Coaching.png "Coaching de vie et thérapie") 
- Nos coachs en bien-être vous guideront à travers vos besoins actuels. Agissant comme un initiateur de votre voyage vers la découverte de soi, chaque membre de l’équipe s’efforcera de vous montrer comment procéder pour démêler votre propre labyrinthe. Vous apprendrez à vous analyser afin de comprendre comment satisfaire vos besoins et comment éviter d’entrer dans un état qui nécessitera une aide extérieure. Vous pouvez devenir votre propre meilleur ami, coach, conseiller afin de vous soutenir de manière optimale.
+## II. Coaching de vie et thérapie
+ Nos psychopracticiennes et coachs en bien-être vous guideront à travers vos besoins actuels. Agissant comme un initiateur de votre voyage vers la découverte de soi, chaque membre de l’équipe s’efforcera de vous montrer comment procéder pour démêler votre propre labyrinthe. Vous apprendrez à vous analyser afin de comprendre comment satisfaire vos besoins et comment éviter d’entrer dans un état qui nécessitera une aide extérieure. Vous pouvez devenir votre propre meilleur ami, coach, conseiller afin de vous soutenir de manière optimale.
   + En ligne
   + En présentiel à Bras Panon, Ile de la Réunion
   
@@ -26,7 +23,7 @@ Sessions mensuelles de chant en ligne.
 ![A counselling session](/assets/images/counseling2.jpg "A counselling session")
 
 
-## Séance de yoga therapie mesurée 
+## III. Séance de yoga therapie mesurée 
 
  La yogathérapie mesurée est le développement de techniques de mesure objectives pour identifier les carences dans les bio-méridiens et valider l’efficacité des pratiques de style de vie, basées sur la philosophie et les principes du yoga et des méthodes de médecine traditionnelle (principalement des systèmes de médecine chinoise et ayurvédique).
 
@@ -36,13 +33,12 @@ Sessions mensuelles de chant en ligne.
 
 
 
-## Retraites
-Plus d’information à venir en temps et lieu
 
 
-## Cours 
 
-### Yoga en individuel et en groupe
+## IV. Cours 
+
+### a. Yoga en individuel et en groupe
 
 Séance de yoga individuel 50€ - 1,5 heures*
 
@@ -57,16 +53,18 @@ Séance de yoga individuel 50€ - 1,5 heures*
 
 *frais additionel pour les cours à domicile
 
-### Purification des chakras et karma
+### b. Developement Personel et Spirituel
+#### 1. Purification des chakras et karma
 
-### Initiation à la pratique de Tara
+#### 2. Initiation à la pratique de Tara
 
-### Activation des champs de protection de Tara
+#### 3. Activation des champs de protection de Tara
 
-### Groupe d'étude sur le féminisme et la spiritualité
+#### 4. Groupe d'étude sur le féminisme et la spiritualité
 
 
-
+## V. Retraites
+Plus d’information à venir en temps et lieu
 
 
 
