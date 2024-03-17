@@ -63,7 +63,7 @@ Réservez une séance de yoga en cliquant le bouton suivant.
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSccfTQDszKqBlyytArpcvOY32NywZY8rRkNvjiObhijEozDjw/viewform?usp=sf_link"> ![Yoga bouton](/assets/images/yogabout.png "Yoga bouton")
 </a>
 
-### b. Développement Personel et Spirituel
+### b. Développement Personnel et Spirituel
 #### 1. Purification des chakras et karma
 
 #### 2. Initiation à la pratique de Tara
