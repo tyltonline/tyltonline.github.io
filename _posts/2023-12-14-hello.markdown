@@ -1,24 +1,12 @@
 ---
 layout: post
-title:  "Hello!"
+title:  "Son idéal"
 date:   2023-12-14 10:36:11 +0400
 categories: jekyll update
 ---
-Hope you are well.
+"Atteindre son idéal, c'est le dépasser du même coup" - Nietzsche, Par-delà le bien et le mal.
 
-Mental health is important:
-
-`smile`
-
-LOVE
-
-Laugh
-
-LIVE
-  JOY
-Bliss
-
-
+"La triste vérité est que la plupart du mal est fait par des gens qui ne décident jamais d’être bon ou mauvais." - Hannah Arendt
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
