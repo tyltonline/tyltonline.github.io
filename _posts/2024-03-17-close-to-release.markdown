@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Close to release"
-date:   2024-03-19 10:36:11 +0400
+date:   2024-03-17 10:36:11 +0400
 categories: jekyll update
 ---
 This is new post and website is close to release
