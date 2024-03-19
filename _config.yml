@@ -28,8 +28,10 @@ twitter_username: ManjushaCoonjan
 github_username:  tyltonline
 
 # Build settings
+# theme: minima
 theme: minima
 plugins:
+# - jekyll-remote-theme # add this line to the plugins list if you already have one
   - jekyll-feed
 
 # Exclude from processing.
