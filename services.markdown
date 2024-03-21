@@ -8,7 +8,7 @@ Apportons la paix et la compassion pour nous-mêmes et pour tous les êtres sens
 
 Sessions mensuelles de chant en ligne.
 
-<a href="https://forms.gle/pJyoW73HaE4CTX3x5"> ![Inscrivez vous](/assets/images/inscrivezvousbout.png "Inscrivez vous")
+<a href="https://tyltonline.github.io/form/2024/03/17/universal-chanting.html"> ![Inscrivez vous](/assets/images/inscrivezvousbout.png "Inscrivez vous")
 </a>
  
 ## II. Coaching de vie et thérapie
@@ -21,7 +21,7 @@ Nos psychopracticiennes et coachs en bien-être vous guideront à travers vos be
   
   Réservez une séance de coaching en cliquant le bouton suivant.
  
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSccfTQDszKqBlyytArpcvOY32NywZY8rRkNvjiObhijEozDjw/viewform?usp=sf_link"> ![Coaching bouton](/assets/images/coachingbout.png "Coaching bouton")
+<a href="https://tyltonline.github.io/contact/"> ![Coaching bouton](/assets/images/coachingbout.png "Coaching bouton")
 </a>
  
 ![A counselling session](/assets/images/counseling2.jpg "A counselling session")
@@ -37,7 +37,7 @@ Nos psychopracticiennes et coachs en bien-être vous guideront à travers vos be
 
 Réservez une séance de yogathérapie mesurée en cliquant le bouton suivant.
 
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSccfTQDszKqBlyytArpcvOY32NywZY8rRkNvjiObhijEozDjw/viewform?usp=sf_link"> ![Yogathérapie mesurée bouton](/assets/images/ytmbout.png "Yogathérapie mesurée bouton")
+<a href="https://tyltonline.github.io/contact/"> ![Yogathérapie mesurée bouton](/assets/images/ytmbout.png "Yogathérapie mesurée bouton")
 </a>
 
 
@@ -56,11 +56,11 @@ Séance de yoga individuel 50€ - 1,5 heures*
 |Yoga sensible aux traumatismes | pour le stress post-traumatique |15€ séance   |
 |                           |                   |   50€ mois    |
 
-*frais additionel pour les cours à domicile.
+*frais additionnels pour les cours à domicile.
 
 Réservez une séance de yoga en cliquant le bouton suivant. 
 
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSccfTQDszKqBlyytArpcvOY32NywZY8rRkNvjiObhijEozDjw/viewform?usp=sf_link"> ![Yoga bouton](/assets/images/yogabout.png "Yoga bouton")
+<a href="https://tyltonline.github.io/contact/"> ![Yoga bouton](/assets/images/yogabout.png "Yoga bouton")
 </a>
 
 ### b. Développement Personnel et Spirituel
@@ -74,7 +74,7 @@ Réservez une séance de yoga en cliquant le bouton suivant.
 
 Inscrivez vous dans un cours en cliquant le bouton suivant. 
 
- <a href="https://docs.google.com/forms/d/e/1FAIpQLSccfTQDszKqBlyytArpcvOY32NywZY8rRkNvjiObhijEozDjw/viewform?usp=sf_link"> ![Cours bouton](/assets/images/coursbout.png "Cours bouton")
+ <a href="https://tyltonline.github.io/contact/"> ![Cours bouton](/assets/images/coursbout.png "Cours bouton")
 </a>
 
 ## V. Retraites
