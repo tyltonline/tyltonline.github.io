@@ -15,5 +15,7 @@ permalink: /accueil/
 
 ![Beaux lotus sur lac!](/assets/images/Lotuses1.png "Beaux lotus sur lac")
 
+![Qui nous sommes](/assets/images/quinoussommes.png "Qui nous sommes")
 
+[Plus d'info](https://tyltonline.github.io/Quisommesnous/)
 

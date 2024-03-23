@@ -3,9 +3,7 @@ layout: page
 title: Qui sommes-nous?
 permalink: /Quisommesnous/
 ---
-BESOINS
-NARRATIF
-VALEURS
+![Qui nous sommes](/assets/images/quinoussommes.png "Qui nous sommes")
 
 ![Danitza Tuyau](/assets/images/Danitza.png "Danitza Tuyau")
 [Suivre Danitza sur Instagram](https://www.instagram.com/helpinghand_mu?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw%3D%3D)
