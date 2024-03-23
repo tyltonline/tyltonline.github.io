@@ -14,6 +14,6 @@ permalink: /accueil/
 
 ![Reservez une séance](/assets/images/Introgreen.png "Reservez une séance")
 
-[Plus d'info](https://tyltonline.github.io/Quisommesnous/)
+[Plus d'info](https://tyltonline.github.io/offres/)
 
 ![Beaux lotus sur lac!](/assets/images/Lotuses1.png "Beaux lotus sur lac")
