@@ -16,4 +16,3 @@ permalink: /accueil/
 
 [Plus d'info](https://tyltonline.github.io/offres/)
 
-![Reservez une séance](/assets/images/Introgreen.png "Reservez une séance")
