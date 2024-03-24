@@ -1,19 +1,19 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Accueil
+permalink: /accueil/
 ---
-My favorite bird is [Duck Duck Go](https://duckduckgo.com).
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
 
 
-[jekyll-organization]: https://github.com/jekyll
-![The San Juan Mountains are beautiful!](/assets/images/san-juan-mountains.avif "San Juan Mountains")
+|<a href="https://tyltonline.github.io/contact/"> ![Life coach icone](/assets/images/Lifecoach2.png "Life coach icone") </a> |  Cherchez-vous le bonheur, une libération tant attendue de tout ce qui crée de la tension et d'être ancrer dans la paix ?[Cliquez ici](https://tyltonline.github.io/contact/)|
+  
+
+|<a href="https://tyltonline.github.io/contact/"> ![Yogathérapie icone](/assets/images/YTM2.png "Yogathérapie icone") </a> | Aimeriez-vous une méthode alternative pour complémenter votre traitement actuel afin d'avoir un meilleur contrôle?[Cliquez ici](https://tyltonline.github.io/contact/)|
+
+|<a href="https://tyltonline.github.io/contact/"> ![Cours icone](/assets/images/cours3.png "Cours icone") </a> | Voulez-vous apprendre, comprendre et pratiquer la spiritualité dans un espace sûr, en toute confiance, à votre rythme?[Cliquez ici](https://tyltonline.github.io/contact/)|
+
+![Reservez une séance](/assets/images/Introgreen.png "Reservez une séance")
+
+[Plus d'info](https://tyltonline.github.io/offres/)
+
+![Beaux lotus sur lac!](/assets/images/Lotuses1.png "Beaux lotus sur lac")

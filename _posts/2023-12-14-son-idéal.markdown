@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Son idéal"
+date:   2023-12-14 10:36:11 +0400
+categories: jekyll update
+---
+"Atteindre son idéal, c'est le dépasser du même coup" - Nietzsche, Par-delà le bien et le mal.
+
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/
