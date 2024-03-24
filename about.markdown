@@ -16,4 +16,3 @@ permalink: /accueil/
 
 [Plus d'info](https://tyltonline.github.io/offres/)
 
-![Beaux lotus sur lac!](/assets/images/Lotuses1.png "Beaux lotus sur lac")
