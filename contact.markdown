@@ -3,6 +3,10 @@ layout: page
 title: Contact
 permalink: /contact/
 ---
+1. Contact Form
+2. Universal Chanting Form (Free). Scroll down please
+
+
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSccfTQDszKqBlyytArpcvOY32NywZY8rRkNvjiObhijEozDjw/viewform?embedded=true" width="640" height="1850" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 ![Beaux lotus sur lac!](/assets/images/Lotuses1.png "Beaux lotus sur lac")
